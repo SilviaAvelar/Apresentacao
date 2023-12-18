@@ -1,0 +1,22 @@
+.centered-text {
+text-align: center;
+font-size: 25px;
+font-style: italic;
+color: blue;
+}
+
+h1 {
+   color: blue; 
+   font-weight: bold;
+   background: rgb(233, 221, 62);
+}
+h2 {
+    color: black;
+    font-weight: bold;
+    background: aquamarine;
+}
+h3 {
+    color: darkslategray;
+    font-style: italic;
+   
+}
